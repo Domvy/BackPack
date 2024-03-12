@@ -1,0 +1,1561 @@
+fileFormatVersion: 2
+guid: 5e7bf1033f8c8cf4fb92db624be8cbba
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1973
+        width: 650
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3652d180e8dd0df42a75c0f976b4dbfb
+      internalID: 2071007884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2369
+        width: 258
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7c556e10de197448ceca4adee1afc4
+      internalID: -1895320263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 2369
+        width: 341
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977cef6ad76751d4d9dcf87d11271524
+      internalID: -140471888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2207
+        width: 278
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d86e28f35ded4546a1ae24814050e22
+      internalID: -1859025688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1973
+        width: 662
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cd8edcda18c5649910e5ebcb7525f2
+      internalID: 1873871833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2015
+        width: 187
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49293a3a936ac764bad4e781ca217ed4
+      internalID: -1963766362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2207
+        width: 140
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8185ac22a1c7648b4a71982c3730b5
+      internalID: 711612910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_7
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2221
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d597c9f4e427c449805cc345728749d
+      internalID: 65765089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_8
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 2164
+        width: 326
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26caa90ee1c2b7247b26bcfd403f979d
+      internalID: 918488899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2162
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8f789eb5a4e2849ae661fe8f988801
+      internalID: 684486109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_10
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 2063
+        width: 116
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e96c20119a6b44d9d041b6d750da59
+      internalID: -1311951699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2110
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a05487abac0a9340bc5573819107602
+      internalID: 840632474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1933
+        width: 193
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2945be60631405c489d0cf57f545531c
+      internalID: 375558395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1979
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8997cc245ac34e448a90f5af2723d0a8
+      internalID: -1008772881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1931
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5d230d063bf4e47b6a62b7c22c58f4
+      internalID: -2093545254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_15
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1492
+        width: 662
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb48d3ab00c03c241bc389e080eef754
+      internalID: -467671450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1679
+        width: 286
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59815b6392a339c469118e765927bded
+      internalID: -958819229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_17
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1492
+        width: 650
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0884298cc2b1741b3b014e16481d64
+      internalID: 1184840845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_18
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1492
+        width: 650
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfaa8c0f5114a34bae513842a91978d
+      internalID: -104692347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1595
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9664e3e132db3f4b97177c7516b1a10
+      internalID: -1268872967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1592
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60cf08ddf0186e44a61beb1426a0de8
+      internalID: -1209243797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1496
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6eadc7d71adb2242ae6146659de1886
+      internalID: -721985802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1534
+        width: 96
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d069b5f8c630f3d4b88a71a1d6f213a1
+      internalID: 395065711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1399
+        width: 77
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d330769bb7caa1845a3d411682409f66
+      internalID: -304382469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1399
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3c11e56def4664c89cd73e923e64fa
+      internalID: 480976537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1399
+        width: 87
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7c66d91bbabf247b20ef41ae63fd52
+      internalID: 864058459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_26
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1394
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144aa001b8665e542af66df20c8ef4c3
+      internalID: -613018116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1295
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d64198afb016048b5242a4d15f2664
+      internalID: -1142209382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1298
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a24e9c338c3bf4cb6ec1f57ce2c612
+      internalID: 1859968022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_29
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1303
+        width: 87
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a94c89c483c0244a0c9c7d9add0aaa
+      internalID: -2125772687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_30
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1303
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca80fa3dd1415849bf33f0cc9efcb29
+      internalID: 28071938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_31
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 914
+        width: 662
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af82418f3118ff948ba68ca3c022f39d
+      internalID: 1080123293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_32
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1315
+        width: 258
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea74f761011a94a44bd07ee1c9b54c90
+      internalID: 558652142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_33
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1315
+        width: 341
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37193ac2dc0ba04681db47cf8301ee5
+      internalID: -1137260486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_34
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1112
+        width: 320
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f49936d6d43e6c4d8dcbebb5c0767e9
+      internalID: -1875243457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_35
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 914
+        width: 668
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d4798945eb1e34a963fabc073b2066
+      internalID: 869988061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1246
+        width: 125
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72497697c0dbe974da66bd71fffc9a6b
+      internalID: -281048559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_37
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1246
+        width: 127
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d287334f0ab21f459909f5d141cfa22
+      internalID: -373091569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1204
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aae431787ba6946950bd5472a5e87e
+      internalID: 44558157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_39
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1220
+        width: 57
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4771e7acce25854facefa0bd3230f52
+      internalID: -486052658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_40
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1204
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130cf73aa2237ce4ab804ac5fd079c35
+      internalID: 820889282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_41
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1220
+        width: 56
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d44738e20d112648b961f25f7b3a85a
+      internalID: 1042852091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_42
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 950
+        width: 185
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56c7a5917ae1fb478ee1a7857dd72b5
+      internalID: 1653060265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_43
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1003
+        width: 117
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb242762b00904e4c9c3928ae1bc720d
+      internalID: 174612815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_44
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1208
+        width: 58
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840c6fb676dcde547a916610e0874051
+      internalID: 1850622042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_45
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1208
+        width: 56
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99167e3439ff75146bbc7978df65b696
+      internalID: 786205365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb4cfdd09619e4449a03d223b2d01e3
+      internalID: 1020930796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_47
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1172
+        width: 57
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b3a2d016fc00c4193926f8682f9418
+      internalID: -1493030641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_48
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1150
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3459a1e44d7b340b7d30c6ef5f4eb0
+      internalID: 1191761496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_49
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1172
+        width: 56
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bb46fd29656154e89405dac491f305
+      internalID: 1642733315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_50
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1051
+        width: 6
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2490bef7cbd227946839bbac12319b0e
+      internalID: 923592745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_51
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1051
+        width: 11
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf81a80c94cc2b4c8d9ca18afc758e5
+      internalID: 252051128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_52
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1051
+        width: 5
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f01101486f38844b92625b21d3587f1
+      internalID: 288270846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_53
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1051
+        width: 5
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7776a05d1763acd438b5c3933476efdb
+      internalID: 993819070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_54
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1051
+        width: 5
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcb1cc9ee5cbab48851f71239b3cdac
+      internalID: -1152899294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 815
+        width: 145
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293d60acb61b1374c8898db2b8f6070a
+      internalID: 31797510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_56
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 815
+        width: 147
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd95c1fd985c584b9ec2f7ac4476111
+      internalID: -934996764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_57
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 386
+        width: 662
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de188b4e588c0341a12a6c05ad51f8f
+      internalID: -1932957217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_58
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 385
+        width: 662
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bea05af097c8734f9c509bb31dcf89b
+      internalID: -1305643417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_59
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 385
+        width: 668
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1eac7ecf152964fa703bbb1fd2bb80
+      internalID: 866188128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 653
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ce60022e0c2e646b81723125d6faa6
+      internalID: -373213798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_61
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 653
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9221b3fab21869408c6c979e4a99d87
+      internalID: -662029304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_62
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 509
+        width: 74
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b97218eaf78b74d9f34f5dc39b2fb9
+      internalID: 1319724915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_UI_Gamepad_48x48_63
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 509
+        width: 75
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c500145c8abb26c4baf1621836a08df0
+      internalID: -890374928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 71ac6fa56d6d0094088515d1dc0897e5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Modern_UI_Gamepad_48x48_0: 2071007884
+      Modern_UI_Gamepad_48x48_1: -1895320263
+      Modern_UI_Gamepad_48x48_10: -1311951699
+      Modern_UI_Gamepad_48x48_11: 840632474
+      Modern_UI_Gamepad_48x48_12: 375558395
+      Modern_UI_Gamepad_48x48_13: -1008772881
+      Modern_UI_Gamepad_48x48_14: -2093545254
+      Modern_UI_Gamepad_48x48_15: -467671450
+      Modern_UI_Gamepad_48x48_16: -958819229
+      Modern_UI_Gamepad_48x48_17: 1184840845
+      Modern_UI_Gamepad_48x48_18: -104692347
+      Modern_UI_Gamepad_48x48_19: -1268872967
+      Modern_UI_Gamepad_48x48_2: -140471888
+      Modern_UI_Gamepad_48x48_20: -1209243797
+      Modern_UI_Gamepad_48x48_21: -721985802
+      Modern_UI_Gamepad_48x48_22: 395065711
+      Modern_UI_Gamepad_48x48_23: -304382469
+      Modern_UI_Gamepad_48x48_24: 480976537
+      Modern_UI_Gamepad_48x48_25: 864058459
+      Modern_UI_Gamepad_48x48_26: -613018116
+      Modern_UI_Gamepad_48x48_27: -1142209382
+      Modern_UI_Gamepad_48x48_28: 1859968022
+      Modern_UI_Gamepad_48x48_29: -2125772687
+      Modern_UI_Gamepad_48x48_3: -1859025688
+      Modern_UI_Gamepad_48x48_30: 28071938
+      Modern_UI_Gamepad_48x48_31: 1080123293
+      Modern_UI_Gamepad_48x48_32: 558652142
+      Modern_UI_Gamepad_48x48_33: -1137260486
+      Modern_UI_Gamepad_48x48_34: -1875243457
+      Modern_UI_Gamepad_48x48_35: 869988061
+      Modern_UI_Gamepad_48x48_36: -281048559
+      Modern_UI_Gamepad_48x48_37: -373091569
+      Modern_UI_Gamepad_48x48_38: 44558157
+      Modern_UI_Gamepad_48x48_39: -486052658
+      Modern_UI_Gamepad_48x48_4: 1873871833
+      Modern_UI_Gamepad_48x48_40: 820889282
+      Modern_UI_Gamepad_48x48_41: 1042852091
+      Modern_UI_Gamepad_48x48_42: 1653060265
+      Modern_UI_Gamepad_48x48_43: 174612815
+      Modern_UI_Gamepad_48x48_44: 1850622042
+      Modern_UI_Gamepad_48x48_45: 786205365
+      Modern_UI_Gamepad_48x48_46: 1020930796
+      Modern_UI_Gamepad_48x48_47: -1493030641
+      Modern_UI_Gamepad_48x48_48: 1191761496
+      Modern_UI_Gamepad_48x48_49: 1642733315
+      Modern_UI_Gamepad_48x48_5: -1963766362
+      Modern_UI_Gamepad_48x48_50: 923592745
+      Modern_UI_Gamepad_48x48_51: 252051128
+      Modern_UI_Gamepad_48x48_52: 288270846
+      Modern_UI_Gamepad_48x48_53: 993819070
+      Modern_UI_Gamepad_48x48_54: -1152899294
+      Modern_UI_Gamepad_48x48_55: 31797510
+      Modern_UI_Gamepad_48x48_56: -934996764
+      Modern_UI_Gamepad_48x48_57: -1932957217
+      Modern_UI_Gamepad_48x48_58: -1305643417
+      Modern_UI_Gamepad_48x48_59: 866188128
+      Modern_UI_Gamepad_48x48_6: 711612910
+      Modern_UI_Gamepad_48x48_60: -373213798
+      Modern_UI_Gamepad_48x48_61: -662029304
+      Modern_UI_Gamepad_48x48_62: 1319724915
+      Modern_UI_Gamepad_48x48_63: -890374928
+      Modern_UI_Gamepad_48x48_7: 65765089
+      Modern_UI_Gamepad_48x48_8: 918488899
+      Modern_UI_Gamepad_48x48_9: 684486109
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
