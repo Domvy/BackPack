@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/TestKSW/RandomMapSample/LobbyMap(Sample).unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
